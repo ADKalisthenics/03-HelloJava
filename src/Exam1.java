@@ -18,7 +18,7 @@ public class Exam1 {
      */
 	public static void main(String[] args) {
 	   	// 콘솔에 데이터를 출력하기 위한 명령어
-		System.out.println("Hello Java"); // ; 세미콜론 = 여기까지가 명령어 1계이다란 의미
+		System.out.println("Hello Java"); // ; 세미콜론 = 여기까지가 명령어 1개란 의미
 		System.out.print("자바");
 		System.out.println();      // 한줄넘김 ln은 line의 약자
 		System.out.println("출발");
